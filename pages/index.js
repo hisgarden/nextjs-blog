@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>Experienced Security Architect with over 20 years working with Fortune 50 companies to medium startups. Extensive background in leading customer identity, access management, and global security architecture for healthcare, financial, and telecom services. Expertise in design innovative solutions, security platforms, digital architecture, and research/development.</p>
         <p>
           (This is a sample website - you’ll be building a site like this in{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
